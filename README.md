@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning big data analysis with R
 - 💞️ I’m looking to collaborate on any JS or Java Open-Source project
 - 📫 Reach me via mail on: info@tobias-rix.de
-- ℹ️ Get me to know better: https://tobias-rix.de/
+- ℹ️ Get to know me better: https://tobias-rix.de/
